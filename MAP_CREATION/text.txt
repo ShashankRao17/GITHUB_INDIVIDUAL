@@ -1,0 +1,9 @@
+[Map]
+
+[Continent]
+Asia=7
+Europe=6
+-
+[Territories]
+Alaska,Europe,Greenland
+;;
